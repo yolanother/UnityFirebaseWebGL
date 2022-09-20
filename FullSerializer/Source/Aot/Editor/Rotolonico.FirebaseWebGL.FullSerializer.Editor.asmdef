@@ -1,0 +1,18 @@
+{
+    "name": "Rotolonico.FirebaseWebGL.FullSerializer.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:66c0fc4450e545c40a3462392854dea8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

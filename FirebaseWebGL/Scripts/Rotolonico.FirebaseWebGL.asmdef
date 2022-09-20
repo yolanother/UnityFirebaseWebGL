@@ -1,0 +1,17 @@
+{
+    "name": "Rotolonico.FirebaseWebGL",
+    "rootNamespace": "",
+    "references": [
+        "GUID:66c0fc4450e545c40a3462392854dea8",
+        "GUID:7879b710154ffc640b1ff50f63a7169f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
